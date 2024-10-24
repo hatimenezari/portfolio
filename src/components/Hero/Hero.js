@@ -64,7 +64,7 @@ function Hero() {
           <HeroRight>
             <ScrollAnimation animateIn="fadeIn">
               <Image
-                src="/developer.webp"
+                src="https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/developer.webp"
                 alt="man-svgrepo"
               />
             </ScrollAnimation>
@@ -75,7 +75,7 @@ function Hero() {
           <ScrollLink>
             Scroll down
             <img
-              src="/scroll-down.svg"
+              src="https://raw.githubusercontent.com/hatimenezari/portfolio/f2acb947496d7aabf45fc77e98b6f8fcae6b96ec/public/scroll-down.svg"
               alt="scroll-down"
             />
           </ScrollLink>

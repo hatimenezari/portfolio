@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/air-canada.jpg",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/air-canada.jpg",
     title: "Air canada",
     description:
       "Worked on adding some features to the air canada app including 3ds payment, low fare calendar, profile info....The project is still ongoing, as the team is still working on adding new features, and the app has around 1M downloads in the play store at the moment.",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/dailymotion.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/dailymotion.png",
     title: "dailymotion SDK",
     description:
       "At Dailymotion, I worked on creating a mobile advertising SDK. This SDK efficiently displays ads at video initiation and intervals, while also tracking user interactions and errorhandling. ",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/myautogrill.jpeg",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/myautogrill.jpeg",
     title: "Myautogrill",
     description:
       "An app that facilitates ordering food and other goods specifically for driveways stations",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "/digiserv.jpeg",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/digiserv.jpeg",
     title: "Digiserv",
     description:
       "Worked on a couple of project with digiserv, namely: \n"
@@ -41,34 +41,33 @@ export const ProjectList = [
 ];
 
 // --------------------------------------- Skills
-
 export const stackList = [
   {
-    img: "html5.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/html5.png",
     name: "HTML",
   },
   {
-    img: "css.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/css.png",
     name: "CSS",
   },
   {
-    img: "javascript.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/javascript.png",
     name: "JavaScript",
   },
   {
-    img: "react.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/react.png",
     name: "ReactJS",
   },
   {
-    img: "android.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/android.png",
     name: "Android",
   },
   {
-    img: "typescript.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/typescript.png",
     name: "Typescript",
   },
   {
-    img: "git.png",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/git.png",
     name: "Git",
   },
 ];

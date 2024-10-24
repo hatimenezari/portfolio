@@ -17,7 +17,7 @@ function About() {
         <div className="BigCard">
         <ScrollAnimation animateIn="fadeInLeft">
           <Image
-            src="hatim-enezari-pic.jpeg" 
+            src="https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/hatim-enezari-pic.jpeg" 
             alt="description" 
             style={{ width: '100%', height: '100%', borderRadius: '50%', objectFit: 'cover' }} 
           />    

@@ -2,7 +2,7 @@ import React from "react";
 import styled from "@emotion/styled";
 
 const FooterSection = styled.div`
-  background-image: url(/footer_wave.svg);
+  background-image: url(https://raw.githubusercontent.com/hatimenezari/portfolio/f2acb947496d7aabf45fc77e98b6f8fcae6b96ec/public/wave1.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;

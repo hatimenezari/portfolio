@@ -6,7 +6,7 @@ const Header = ({ toggle }) => {
     <div className="Container" style={{padding: 0}}>
       <Nav>
         <Logo to="/">
-          <h1 style={{ fontFamily: 'Courier New, monospace' }}>&lt;Hatim Enezari /&gt;</h1>
+          <h1 style={{ fontFamily: 'Courier New, monospace', color:"white" }}>&lt;Hatim Enezari /&gt;</h1>
         </Logo>
         <NavMenu>
           <NavLink className="menu-item" to="projects">
