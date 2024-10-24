@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "",
   },
   {
-    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/digiserv.jpeg",
+    img: "https://raw.githubusercontent.com/hatimenezari/portfolio/refs/heads/main/public/digiserv.jpg",
     title: "Digiserv",
     description:
       "Worked on a couple of project with digiserv, namely: \n"
